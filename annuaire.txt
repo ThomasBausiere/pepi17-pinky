@@ -3,6 +3,7 @@
 thomas_bausiere.txt
 
 yohann_tesson.txt
+feature_YT_developpeur.txt
 
 yosra_mestiri.txt
 
