@@ -1,10 +1,13 @@
-<<<<<<< HEAD
 
-<<<<<<< HEAD
+
 thomas_bausiere.txt
-=======
+
 yohann_tesson.txt
-=======
+
 yosra_mestiri.txt
->>>>>>> ddc2ade (ajout fichier nom et modification fichier  annuaire)
->>>>>>> 8ef31d2dc51889016d76375ac924c12a207fbea7
+
+
+
+
+joline_sinci.txt
+
