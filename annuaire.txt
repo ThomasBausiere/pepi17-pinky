@@ -3,6 +3,7 @@
 thomas_bausiere.txt
 
 yohann_tesson.txt
+feature_YT_developpeur.txt
 
 yosra_mestiri.txt
 
@@ -12,3 +13,8 @@ yosra_mestiri.txt
 joline_sinci.txt
 
 feature_YM.txt
+
+ feature_JS.txt 
+
+feature_pull_request.txt 
+
