@@ -1,0 +1,2 @@
+Pourquoi
+apprendre Git en équipe est important ?
